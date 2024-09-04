@@ -15,8 +15,7 @@ import com.cs407.helloworld.ui.theme.HelloWorldTheme
 import android.widget.ImageView
 
 class MainActivity : ComponentActivity() {
-    // Declare an ImageView variable
-    private lateinit var imgView: ImageView
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
